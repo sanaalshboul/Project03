@@ -1,0 +1,16 @@
+h1 {
+    color: darkgray;
+}
+
+.class1 {
+    color: darkgray;
+    font-weight: 200;
+}
+
+
+/* The .active class defines the appearance of an element when it becomes active. */
+.active {
+    background-color: black;
+    color: red;
+    border-radius: 20px;
+}
